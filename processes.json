@@ -1,0 +1,4 @@
+{
+  "name": "heaven",
+  "script": "./build/index.js"
+}
